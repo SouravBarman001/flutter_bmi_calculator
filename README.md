@@ -12,7 +12,7 @@
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-## UI of this app->
+## UI of this Application->
 ![Finished App](https://github.com/SouravBarman001/flutter_bmi_calculator/blob/main/images/bmi1.png)
 ![Finished App](https://github.com/SouravBarman001/flutter_bmi_calculator/blob/main/images/bmi2.png)
 
