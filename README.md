@@ -1,4 +1,4 @@
-#Flutter BMI Calculator
+# Flutter BMI Calculator
 ## What i will learn
 
 - How to use Flutter themes to create coherent branding. 
@@ -12,10 +12,10 @@
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-  UI of this app->
+## UI of this app->
 ![Finished App](https://github.com/SouravBarman001/flutter_bmi_calculator/blob/main/images/bmi1.png)
 ![Finished App](https://github.com/SouravBarman001/flutter_bmi_calculator/blob/main/images/bmi2.png)
 
-I learnt from The App Brewery's Complete Flutter Development Bootcamp
+# I learnt from The App Brewery's Complete Flutter Development Bootcamp
 
 
